@@ -143,8 +143,14 @@ footer ul{
 footer .footer-left{
     justify-self: left;
 }
+footer .footer-left li a:hover{
+    color: black;
+}
 footer .footer-right{
     justify-self: right;
+}
+footer .footer-right li a:hover{
+    color: black;
 }
 footer ul li a{
     margin: 10px;
